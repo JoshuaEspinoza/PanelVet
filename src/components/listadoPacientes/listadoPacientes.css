@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+  .listadoPContainer {
+    overflow: visible !important;
+    height: auto !important;
+  }
+}
+
+@media (max-width: 320px) {
+  .botonesFlex {
+    justify-content: center !important;
+    flex-wrap: wrap;
+    gap: 1em;
+  }
+}
